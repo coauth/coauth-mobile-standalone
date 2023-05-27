@@ -1,4 +1,4 @@
-# Mobile Stand alone
+# Mobile Stand-alone
 A standalone backend + mobile app without having the need to develop one on your  own.
 
 ### Tech Stack
